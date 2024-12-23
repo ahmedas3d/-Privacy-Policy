@@ -1,7 +1,7 @@
 # Privacy Policy for Sportify
 
-## **Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+## **Effective Date:** [20/9/2024]  
+**Last Updated:** [23/12/2024]
 
 ---
 
@@ -67,5 +67,4 @@ Welcome to Sportify! Your privacy is critically important to us. This Privacy Po
 
 ## **9. Contact Us**
 If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** [Insert Contact Email]  
-**Address:** [Insert Physical Address if Required]
+**Email:** [ahmedxasaad@gmail.com]
